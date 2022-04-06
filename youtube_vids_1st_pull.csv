@@ -1,0 +1,50 @@
+,video_id,video_title,upload_date,view_count,like_count,comment_count
+0,jN5hpgBrz8k,Dealing With Python Date Manipulations In a Meta/Facebook Data Science Interview Question,2022-03-22,2634,83,15
+1,yFyyP_Uvxj0,How To Solve Data Science Probability Interview Questions | Meta/Facebook Example,2022-03-10,1935,62,2
+2,Av92CaPTRr8,How to use SQL window functions: RANK vs DENSE_RANK in Data Science Interviews,2022-03-02,2492,72,8
+3,VEjxlKBkZGM,Amazon Data Science Interview Question Walkthrough | How to Deal with Streaks in SQL,2022-02-08,5610,177,17
+4,hMUf7DqG1nQ,SQL Basics: How to Join Multiple Tables in SQL and the Importance of LEFT JOIN vs INNER JOIN,2022-01-27,3200,90,6
+5,ToEl_tpyoM4,Uber Data Science Python Interview Question Walkthrough,2022-01-10,17819,447,24
+6,30hS-MjpU6E,SQL Syntax Best Practices: How to Structure Your SQL Code,2021-12-22,9365,421,44
+7,Bgpp99iz0I0,Most Common Coding Mistakes on Data Science Interviews,2021-11-04,4151,197,32
+8,GeJUvdkJKEc,Multiple Solutions to Data Scientist Interview Question From Amazon [Rolling Average],2021-10-11,7011,188,35
+9,GGURenNfXI0,Multiple Approaches for Solving a Twitter Data Scientist Interview Question,2021-09-13,4595,182,32
+10,PlpUo6bHsBQ,Advanced Facebook Data Science SQL interview question [RANK()],2021-08-09,18248,555,62
+11,uY2wfR8Dkqo,5 Tips for a Successful Data Science Interview,2021-07-26,8799,244,40
+12,yY7yau9j3xk,Data Science SQL Scenario Based Interview Question [Facebook] - Date Manipulation,2021-07-20,6164,164,27
+13,i-E4pdU2qXM,Data Science SQL Interview Question Walkthrough [Microsoft] - Window Function: Ranking,2021-07-13,6088,229,22
+14,T1UhSuKqy3A,Most Common Data Science SQL Interview Question from DoorDash [window functions  partitions],2021-06-15,10054,347,37
+15,2iE3JgNTwVU,A Walkthrough of Data Science SQL Interview Question from Noom (Date Manipulations),2021-06-04,4802,157,32
+16,RgKMbpEylWA,Comparing FAANG vs Non-FAANG Data Science Interview Questions,2021-05-24,2602,89,13
+17,giGIPINLqJs,An Analysis of 900 Data Science Interview Questions | Data Science Interview Guide,2021-05-13,3522,142,10
+18,77IVf0zgmwI,Importing a Pandas Dataframe to a Database in Python [For Your Data Science Project],2021-05-05,13955,470,51
+19,xtbMCAVXDmU,Facebook and Microsoft Data Science SQL interview question walkthrough (advanced),2021-04-15,8240,252,60
+20,fklHBWow8vE,Working with APIs in Python [For Your Data Science Project],2021-04-02,32058,1497,102
+21,tNXliLTlrV8,Step-by-step Approach to Solving Any Data Science SQL Interview Question (Twitch),2021-03-24,8335,288,35
+22,XRwxYOhHdE8,Facebook&#39;s Most Common Data Science SQL Interview Question [2021 Interview Question and Answer],2021-03-10,30041,725,54
+23,pV_mnZgzXEo,"Coding Concepts in Data Science Interviews in 2021 (Facebook, Twitch, Postmates)",2021-03-03,5048,264,29
+24,c4Af2FcgamA,The One and Only Data Science Project You Need,2021-02-24,179132,10653,232
+25,QenwDm5oWdU,Advanced Data Science SQL Interview Question [Amazon] (window functions  aliasing),2021-02-17,20719,696,102
+26,TYHWv1vT0Pk,Common Date Manipulations on Data Science SQL Interviews,2021-02-11,14363,529,80
+27,0GpgMvyN0Fg,How I Learned Data Science (resources to get a job) in 2021,2021-02-04,11774,709,45
+28,VYeevsVj4fU,Advanced SQL Questions From Amazon (Handling complex logic in data science interviews),2021-01-27,18630,539,68
+29,vLjAG9eXkcU,Solving Complex SQL Interview Questions [How to organize lengthy code solutions],2021-01-20,9697,313,61
+30,lG0PbUq4wkg,Top Data Science Interview Questions in 2021 [3 concepts tested on all interviews],2021-01-13,4826,177,24
+31,j8kGqAAIhxA,Top Data Science Interview Question And Answer Mistakes 2021 [Asked By Amazon],2021-01-06,4420,147,29
+32,W_IERUwElkg,SQL Case Statements For Data Science Interviews in 2021,2020-12-28,28962,1039,85
+33,eC7MdwKCCOE,Tricky Data Science Interview Question [By Facebook],2020-12-22,4406,149,31
+34,XBE09l-UYTE,"SQL Window Functions on Data Science Interviews in 2021 | Asked By Airbnb, Netflix, Twitter, Uber",2020-12-17,54388,1822,145
+35,C0hk-dZ9XSE,SQL Window Functions In a Data Science Interview Question by Airbnb in 2021,2020-12-10,3752,130,23
+36,N0aHeKyNEto,Applying Software Engineering Principles To Your Data Science Tasks In Python,2020-12-03,2232,90,30
+37,TDwy1lSjEZo,Automating Your Data Science Tasks In Python (importing CSV files to database AUTOMATION TUTORIAL),2020-11-24,7857,234,53
+38,EPUayNC5ku4,SQL Coding Interview Question Using A Window Function (PARTITION BY) | Data Science Interviews,2020-11-19,54253,1580,119
+39,wqBFgaMgFQA,Solve Data Science Tasks In Python (Saving Hours) (automating import CSV files to database),2020-11-15,15192,495,47
+40,IKw0lkmBHNI,Solving an Airbnb Data Science Coding Interview Question | SQL Interview  [Fav Host Nationality],2020-11-11,5258,117,18
+41,_gy1o9UH2dQ,Hard SQL Interview Question From FACEBOOK | Data Science Coding Interviews (Popularity Percentage),2020-11-04,21016,446,69
+42,7Q-2DEwHW7w,Solving a SQL Interview Question by FACEBOOK | (Data Science Interview) SMS Confirmations From Users,2020-10-29,5964,112,21
+43,pFwYjaeKFvQ,Solving a Facebook Data Science Interview Questions | (SQL Interview Questions and Answer),2020-10-22,4607,74,19
+44,iR8FDQyCtnw,SQL Interview Questions From MICROSOFT | Expensive Projects (Data Science Interview Questions),2020-10-20,2233,56,5
+45,1SgHHQeRuxs,How I Prepare For My Data Science Interviews (From a Data Scientist),2020-10-18,4358,131,17
+46,UndSRKwsxKM,YELP SQL Data Science Interview Questions | Common Coding Question (Mock Interview Walkthrough),2020-10-10,2161,41,14
+47,U9P4M4EPTgI,Intro to Real Data Science Interview Questions and Answers Series (Interview Walkthroughs),2020-09-23,2896,53,6
+48,S7gKkRxlk1U,Real Data Science Interview Question From Facebook | Friend Acceptance Rate (Interview Walkthrough),2020-09-23,5282,100,13

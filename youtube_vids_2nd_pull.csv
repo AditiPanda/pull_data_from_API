@@ -1,0 +1,86 @@
+,video_id,video_title,upload_date,view_count,like_count,comment_count
+0,jN5hpgBrz8k,Dealing With Python Date Manipulations In a Meta/Facebook Data Science Interview Question,2022-03-22,2973,92,20
+1,yFyyP_Uvxj0,How To Solve Data Science Probability Interview Questions | Meta/Facebook Example,2022-03-10,1982,62,2
+2,Av92CaPTRr8,How to use SQL window functions: RANK vs DENSE_RANK in Data Science Interviews,2022-03-02,2549,72,8
+3,VEjxlKBkZGM,Amazon Data Science Interview Question Walkthrough | How to Deal with Streaks in SQL,2022-02-08,5647,177,20
+4,hMUf7DqG1nQ,SQL Basics: How to Join Multiple Tables in SQL and the Importance of LEFT JOIN vs INNER JOIN,2022-01-27,3224,90,6
+5,ToEl_tpyoM4,Uber Data Science Python Interview Question Walkthrough,2022-01-10,17854,447,24
+6,30hS-MjpU6E,SQL Syntax Best Practices: How to Structure Your SQL Code,2021-12-22,9394,422,44
+7,Bgpp99iz0I0,Most Common Coding Mistakes on Data Science Interviews,2021-11-04,4162,197,32
+8,GeJUvdkJKEc,Multiple Solutions to Data Scientist Interview Question From Amazon [Rolling Average],2021-10-11,7034,188,35
+9,GGURenNfXI0,Multiple Approaches for Solving a Twitter Data Scientist Interview Question,2021-09-13,4602,182,32
+10,PlpUo6bHsBQ,Advanced Facebook Data Science SQL interview question [RANK()],2021-08-09,18340,559,62
+11,uY2wfR8Dkqo,5 Tips for a Successful Data Science Interview,2021-07-26,8835,244,40
+12,yY7yau9j3xk,Data Science SQL Scenario Based Interview Question [Facebook] - Date Manipulation,2021-07-20,6172,164,27
+13,i-E4pdU2qXM,Data Science SQL Interview Question Walkthrough [Microsoft] - Window Function: Ranking,2021-07-13,6117,229,22
+14,T1UhSuKqy3A,Most Common Data Science SQL Interview Question from DoorDash [window functions  partitions],2021-06-15,10102,349,37
+15,2iE3JgNTwVU,A Walkthrough of Data Science SQL Interview Question from Noom (Date Manipulations),2021-06-04,4814,157,32
+16,RgKMbpEylWA,Comparing FAANG vs Non-FAANG Data Science Interview Questions,2021-05-24,2607,89,13
+17,giGIPINLqJs,An Analysis of 900 Data Science Interview Questions | Data Science Interview Guide,2021-05-13,3529,143,10
+18,77IVf0zgmwI,Importing a Pandas Dataframe to a Database in Python [For Your Data Science Project],2021-05-05,14041,471,52
+19,xtbMCAVXDmU,Facebook and Microsoft Data Science SQL interview question walkthrough (advanced),2021-04-15,8256,252,60
+20,fklHBWow8vE,Working with APIs in Python [For Your Data Science Project],2021-04-02,32256,1503,102
+21,tNXliLTlrV8,Step-by-step Approach to Solving Any Data Science SQL Interview Question (Twitch),2021-03-24,8364,288,35
+22,XRwxYOhHdE8,Facebook&#39;s Most Common Data Science SQL Interview Question [2021 Interview Question and Answer],2021-03-10,30160,728,54
+23,pV_mnZgzXEo,"Coding Concepts in Data Science Interviews in 2021 (Facebook, Twitch, Postmates)",2021-03-03,5058,264,29
+24,c4Af2FcgamA,The One and Only Data Science Project You Need,2021-02-24,179498,10670,232
+25,QenwDm5oWdU,Advanced Data Science SQL Interview Question [Amazon] (window functions  aliasing),2021-02-17,20811,699,102
+26,TYHWv1vT0Pk,Common Date Manipulations on Data Science SQL Interviews,2021-02-11,14402,530,80
+27,0GpgMvyN0Fg,How I Learned Data Science (resources to get a job) in 2021,2021-02-04,11824,714,45
+28,VYeevsVj4fU,Advanced SQL Questions From Amazon (Handling complex logic in data science interviews),2021-01-27,18693,540,68
+29,vLjAG9eXkcU,Solving Complex SQL Interview Questions [How to organize lengthy code solutions],2021-01-20,9728,313,61
+30,lG0PbUq4wkg,Top Data Science Interview Questions in 2021 [3 concepts tested on all interviews],2021-01-13,4833,177,24
+31,j8kGqAAIhxA,Top Data Science Interview Question And Answer Mistakes 2021 [Asked By Amazon],2021-01-06,4428,147,29
+32,W_IERUwElkg,SQL Case Statements For Data Science Interviews in 2021,2020-12-28,29051,1039,85
+33,eC7MdwKCCOE,Tricky Data Science Interview Question [By Facebook],2020-12-22,4411,149,31
+34,XBE09l-UYTE,"SQL Window Functions on Data Science Interviews in 2021 | Asked By Airbnb, Netflix, Twitter, Uber",2020-12-17,54599,1829,145
+35,C0hk-dZ9XSE,SQL Window Functions In a Data Science Interview Question by Airbnb in 2021,2020-12-10,3756,130,23
+36,N0aHeKyNEto,Applying Software Engineering Principles To Your Data Science Tasks In Python,2020-12-03,2239,90,30
+37,TDwy1lSjEZo,Automating Your Data Science Tasks In Python (importing CSV files to database AUTOMATION TUTORIAL),2020-11-24,7895,234,53
+38,EPUayNC5ku4,SQL Coding Interview Question Using A Window Function (PARTITION BY) | Data Science Interviews,2020-11-19,54482,1582,122
+39,wqBFgaMgFQA,Solve Data Science Tasks In Python (Saving Hours) (automating import CSV files to database),2020-11-15,15277,497,47
+40,IKw0lkmBHNI,Solving an Airbnb Data Science Coding Interview Question | SQL Interview  [Fav Host Nationality],2020-11-11,5266,117,18
+41,_gy1o9UH2dQ,Hard SQL Interview Question From FACEBOOK | Data Science Coding Interviews (Popularity Percentage),2020-11-04,21076,447,69
+42,7Q-2DEwHW7w,Solving a SQL Interview Question by FACEBOOK | (Data Science Interview) SMS Confirmations From Users,2020-10-29,5978,112,21
+43,pFwYjaeKFvQ,Solving a Facebook Data Science Interview Questions | (SQL Interview Questions and Answer),2020-10-22,4612,74,19
+44,iR8FDQyCtnw,SQL Interview Questions From MICROSOFT | Expensive Projects (Data Science Interview Questions),2020-10-20,2235,56,5
+45,1SgHHQeRuxs,How I Prepare For My Data Science Interviews (From a Data Scientist),2020-10-18,4364,131,17
+46,UndSRKwsxKM,YELP SQL Data Science Interview Questions | Common Coding Question (Mock Interview Walkthrough),2020-10-10,2165,41,14
+47,U9P4M4EPTgI,Intro to Real Data Science Interview Questions and Answers Series (Interview Walkthroughs),2020-09-23,2901,53,6
+48,S7gKkRxlk1U,Real Data Science Interview Question From Facebook | Friend Acceptance Rate (Interview Walkthrough),2020-09-23,5290,100,13
+49,rMoUoYxfBNk,How To Discuss Trade-offs in a Data Science Interview - Data Science Interview Tip #5,2020-09-20,995,28,6
+50,60NaEc7NP_U,My Data Science Career Path (From Novice to Your First Job) - Your Journey to Data Science,2020-09-13,1917,69,5
+51,5-1ClCuQCIw,How to Organize Data Science Interview Solution | Data Science Interview Tip #3,2020-08-30,3213,32,10
+52,rf2udE9q-SM,How To Get Your First Data Science Job Interview | Data Science Interviews Tip #2,2020-08-20,2037,43,8
+53,wqxDfVdZ8wM,18 Most Recommended Data Science Platforms To Learn Python And SQL,2020-08-16,2453,103,22
+54,SrqJuUNN62I,Technical Questions on Data Science Interviews Tip #1 | Guarantee The Correct Answer Every Time,2020-08-08,3277,68,4
+55,-i9chjBSOqU,merge() Method to Join Multiple Pandas Dataframes - Beginner Python Pandas Tutorial #7,2020-05-29,1468,33,22
+56,HRzthi_FqAA,Merge Dataframes Using Concat and Append - Beginner Python Pandas Tutorial #6,2020-05-26,652,24,4
+57,DUgd48QYmfI,"Advanced Use of groupby(), aggregate, filter, transform, apply - Beginner Python Pandas Tutorial #5",2020-05-26,15705,278,36
+58,iwIPnlCHlVQ,Simple Groupby() in Pandas - Beginner Python Pandas Tutorial #4 (interactive python notebook),2020-05-26,1442,40,4
+59,mCXZXe-Na3s,Fundamentals of Filtering Data in a Pandas Dataframe - Beginner Python Pandas Tutorial #3,2020-05-24,979,41,8
+60,JHxojhrCsRs,How to Deal with Nulls in Pandas - Beginner Python Pandas Tutorial #2 (interactive python notebook),2020-05-24,925,25,5
+61,bM7LSQIKYs8,"Pandas iloc, loc and Dataframes  - Beginner Python Pandas Tutorial #1 (interactive python notebook)",2020-05-23,3827,84,14
+62,e6C1Z-o1fyQ,How to Create Boolean Mask for NumPy Arrays - Beginner Python NumPy Exercises #9,2020-05-17,1158,15,5
+63,LL7dnUymOvo,A Boolean Mask on NumPy Arrays - Complete Python NumPy Tutorial for Beginners #9,2020-05-17,969,16,5
+64,ceJ4lVXN0T8,NumPy Descriptive Statistics - Beginner Python NumPy Exercises #8,2020-05-16,334,12,6
+65,ccDPI7v-0QE,Math Operations Arrays using NumPy - Beginner Python NumPy Exercises #7,2020-05-16,311,6,0
+66,gZGGexOyL9M,Summary Statistics in NumPy - Complete Python NumPy Tutorial for Beginners #8,2020-05-16,286,3,0
+67,JZfsZuLKaJ4,Arithmetic Operators on Arrays using NumPy - Complete Python NumPy Tutorial for Beginners #7,2020-05-16,319,4,0
+68,e8o7E13KtJ4,Splitting and Concatenating Arrays - Beginner Python NumPy Exercises #6,2020-05-14,307,9,0
+69,0hjTJw9Jpmc,How to Reshape NumPy Arrays - Beginner Python NumPy Exercises #5,2020-05-14,313,5,1
+70,STJA-D-K9Cs,NumPy Multidimensional Array Indexing and Slicing - Beginner Python NumPy Exercises #4,2020-05-14,575,10,3
+71,Yk3H3VRDfm0,Array Attributes and Accessing Single Elements in NumPy - Beginner Python NumPy Exercises #3,2020-05-14,436,9,0
+72,dWQvU9p7TdU,Split and Reshape NumPy  Concatenate NumPy Arrays - Complete Python NumPy Tutorial for Beginners #6,2020-05-14,408,13,0
+73,01kOJUiiEQE,NumPy Slicing and Accessing Subarrays - Complete Python NumPy Tutorial for Beginners #5,2020-05-14,371,6,0
+74,sKMuioo7Xf8,NumPy Array Index to Access Single Element - Complete Python NumPy Tutorial for Beginners #4,2020-05-14,409,3,0
+75,aGPjAOhomY4,Useful Array Attributes of NumPy - Complete Python NumPy Tutorial for Beginners #3,2020-05-14,357,5,0
+76,yLn52ppKO80,How to Create NumPy Array from Scratch - Beginner Python NumPy Exercises #2,2020-05-13,720,18,0
+77,mkbgEvUkSaM,NumPy Array vs List in Python - Beginner Python NumPy Exercises #1 (interactive python notebook),2020-05-13,2007,34,3
+78,F5sKh-3V3KA,How to Create Arrays and Functions in Python - Complete Python NumPy Tutorial for Beginners #2,2020-05-13,513,8,0
+79,OVD26YMkT_c,List vs Array Python - Complete Python NumPy Tutorial for Beginners #1 (interactive python notebook),2020-05-13,927,21,3
+80,UX4_IgagL9I,How to Use Google Colaboratory | Import a CSV File into a Google Colabs Notebook,2020-05-02,1991,12,2
+81,tDdo3FiWpgE,Interview Questions for SQL Joins and Subqueries,2020-02-01,1309,22,0
+82,wW827gqxlRY,SQL Job Interview Mistakes #2,2019-09-15,1026,21,0
+83,xbc2GpGUXwc,SQL Job Interview Mistakes #1,2019-08-03,7755,69,1
+84,n6gM265zG68,SQL Query Interview Questions And Answers From Real Companies | Prepare For Your SQL Interview,2019-06-26,41392,530,4
